@@ -1,0 +1,14 @@
+.link{
+  color: antiquewhite;
+  text-decoration: none;
+}
+.link:hover{
+  border: 2px solid aqua;
+  padding: 1px 5px;
+  border-radius: 15px;
+  color: aquamarine;
+}
+
+.p-tag {
+  text-align: justify;
+}
